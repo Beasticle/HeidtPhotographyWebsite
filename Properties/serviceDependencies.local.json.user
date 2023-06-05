@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2023-06-05T18:40:00.299303Z"
+    },
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2023-06-05T18:45:45.4039987Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Photo-Storage"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "54cd6ab3-c5b0-4ef3-82ec-b52c1df12fd4"
+    }
+  }
+}
