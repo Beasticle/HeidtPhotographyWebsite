@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PB5j+GylAPuwrG9hRArOXdqY8Hd3KvRgDOO7HOH3SZi119laDx7+9WZtA7lzyakjQrE2OKVU6HW4GHlqmj+3vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\OneDrive - KiZAN Technologies\\Documents\\Code\\Photography Website\\HeidtPhotogrpahySite\\HeidtPhotogrpahySite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
